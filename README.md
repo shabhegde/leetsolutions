@@ -1,2 +1,2 @@
 # leetsolutions
-as part of training
+Crearted this repo as part of training
